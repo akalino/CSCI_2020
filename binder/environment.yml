@@ -1,0 +1,27 @@
+name: csci2020
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - jupyterlab
+
+  # Common quality-of-life / plotting (optional but useful)
+  - numpy
+  - matplotlib
+
+  # Module 5 (XLSX) + convenient CSV work
+  - openpyxl
+  - pandas
+
+  # Module 8 (linting/tooling mindset)
+  - pylint
+
+  # Helpful for “run checks” cells (optional)
+  - pytest
+
+  # If you want nicer notebook UX (optional)
+  - ipywidgets
+
+  # Only if you plan to demo requests in Module 6 packages:
+  # - requests

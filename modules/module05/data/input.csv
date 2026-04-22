@@ -1,0 +1,30 @@
+date,item,category,quantity,unit_price
+ 2026-02-01 ,paper clips,Office,10,$1.25
+2026-02-01, notebook  ,office,2,2.00
+2026-02-02,PENS,Office,5, $0.99 
+2026-02-02, stapler,OFFICE,,12.50
+2026-02-03,Printer Paper,Office,1,$6.49
+2026-02-03,USB Cable,Tech,3,7.99
+ 2026-02-04,hdmi cable,tech,two,$9.99
+2026-02-04 ,mouse,Tech,1,$19.99
+2026-02-05,Keyboard, TECH ,1,29.95
+2026-02-05, coffee ,Kitchen,4,$3.50
+2026-02-06,Tea,kitchen,-1,2.25
+2026-02-06,Dish Soap,Kitchen,2,$ 4.10
+2026-02-07,hand sanitizer,Health,6,"$1,250.00"
+2026-02-07,Bandages,health,3,$2.49
+2026-02-08,Vitamins,Health,,$12.00
+2026-02-08,Pain Reliever,HEALTH,1,
+2026-02-09,  notebook,Office,3,2
+2026-02-09,Paper Clips,office,0,1.25
+2026-02-10,Markers,Office,5,$bad
+2026-02-10,Whiteboard,Office,1,$89.00
+2026-02-11,Laptop Stand,Tech,1,39.99
+2026-02-11,Webcam,Tech,2,$59.50
+2026-02-12,Ethernet Cable,Tech,5,$6.00
+2026-02-12,Water Bottles,Kitchen,12, 0.80 
+2026-02-13,Gloves,Health,8,$1.10
+2026-02-13,Mask,Health,ten,$0.50
+2026-02-14,Scissors,Office,1,$5.25
+2026-02-14,Tape,Office,2,"$3,25"
+2026-02-15,Trash Bags,Kitchen,3,$8.75
