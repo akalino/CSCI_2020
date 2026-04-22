@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+set -e
+
+# Optional: create output folders for every module (safe if rerun)
+for d in modules/module*/output; do
+  mkdir -p "$d"
+done
