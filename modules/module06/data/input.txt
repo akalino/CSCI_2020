@@ -1,0 +1,25 @@
+2026-05-18 08:00:00 Application starting.
+2026-05-18 08:00:01 Loaded configuration for the morning import.
+2026-05-18 08:00:03 Connected to the records service.
+2026-05-18 08:00:04 User session opened for analyst 1042.
+2026-05-18 08:00:06 Found 240 records in the input queue.
+2026-05-18 08:00:08 INFO: Import job 841 has started.
+2026-05-18 08:00:12 Reading file accounts_may.csv.
+2026-05-18 08:00:16 Validated column names: account_id, date, amount.
+2026-05-18 08:00:22 Imported 80 records in 0.4 seconds.
+2026-05-18 08:00:27 WARNING: 3 records have a blank optional note.
+2026-05-18 08:00:31 Skipped records with no account identifier.
+2026-05-18 08:00:34 ERROR: Could not read attachment 17.
+2026-05-18 08:00:39 Retrying attachment 17 from the backup folder.
+2026-05-18 08:00:44 Error: attachment read error repeated by the retry handler.
+2026-05-18 08:00:48 Backup read completed and attachment 17 was added.
+2026-05-18 08:00:53 INFO: 160 records have been processed.
+2026-05-18 08:00:58 WARNING: One record contains an amount above the review limit.
+2026-05-18 08:01:02 Sent the high-value record to the review queue.
+2026-05-18 08:01:09 Updated the progress file.
+2026-05-18 08:01:12 ERROR: The output folder is read-only.
+2026-05-18 08:01:14 Changed the destination to the configured temporary folder.
+2026-05-18 08:01:18 Saved the CSV report.
+2026-05-18 08:01:19 Saved the JSON report.
+2026-05-18 08:01:23 Import complete; 237 records were saved and 3 were skipped.
+2026-05-18 08:01:24 Application closing normally.
